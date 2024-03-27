@@ -12,7 +12,7 @@ export function Title({ className }: { className?: string }) {
       <Link href="/">
         Pokemon <span className="text-c-red">G</span>
         <span className="text-c-red">Y</span>
-        <span className="text-c-red">M</span> Tracker
+        <span className="text-c-red">M</span> Tracker (.)
       </Link>
     </h1>
   );
